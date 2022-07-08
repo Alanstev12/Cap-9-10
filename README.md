@@ -4,6 +4,35 @@
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+![1](https://user-images.githubusercontent.com/105374427/177923134-e220a5c2-1d8d-4a18-bc95-6477a42d3a63.jpg)
+
+
+
+![2](https://user-images.githubusercontent.com/105374427/177923146-3dcc99b4-c0e5-4409-934b-f60bd7875b16.jpg)
+
+
+
+![4 (2)](https://user-images.githubusercontent.com/105374427/177923163-b7cbc512-47e3-419b-b96a-96aa1102646e.jpg)
+
+
+
+![4](https://user-images.githubusercontent.com/105374427/177923172-509d9433-8d1b-4ab6-ad95-65a5f26c3d4b.jpg)
+
+
+
+![5](https://user-images.githubusercontent.com/105374427/177923184-912bbda2-5085-45de-9894-f60c986570db.jpg)
+
+
+![6](https://user-images.githubusercontent.com/105374427/177923198-afeb12e9-4aae-4b2e-bb69-35231be15910.jpg)
+
+
+![7](https://user-images.githubusercontent.com/105374427/177923218-250ee1f4-aa22-4b1d-96b1-bc3410456ad4.jpg)
+
+
+
+
+
+
 2. Evalúe cada determinante:
 
 ![image](https://user-images.githubusercontent.com/105374427/177908090-1abe1af4-bb8b-45d4-9b34-2b1e16ca2d87.png)
