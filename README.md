@@ -1,3 +1,9 @@
+# Informe-6
+
+# 1. OBJETIVOS
+
+# 2. MARCO TEÓRICO (RESUMEN)
+
 2. Evalúe cada determinante:
 
 ![image](https://user-images.githubusercontent.com/105374427/177908090-1abe1af4-bb8b-45d4-9b34-2b1e16ca2d87.png)
